@@ -38,9 +38,6 @@ lakshmi-ayurvedic-frontend/
 
 ## 🌐 Usage
 
-- Open browser and go to:  
-  http://localhost:3000  
-
 - Users can:
   - Browse products  
   - Send enquiries  
